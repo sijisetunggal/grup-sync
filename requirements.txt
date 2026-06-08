@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+websockets==12.0
+telethon==1.36.0
+cryptg==0.4.0
+python-dotenv==1.0.1
+pydantic==2.7.4
+pydantic-settings==2.3.3
+hachoir==3.2.0
+python-multipart==0.0.9
